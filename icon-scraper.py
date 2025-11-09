@@ -222,7 +222,7 @@ class CorrectedFlaticonScraper:
                 for file in icon['downloadedFiles']:
                     format_, filename = file.split(': ')
                     filename = filename.strip()
-                    saved_path = f"../downloads/icon/{keyword}/{filename}"
+                    saved_path = f"https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/{keyword}/{filename}"
                     file_type = format_.strip().upper()
                     markdown += f"| <a href=\"{saved_path}\"><img src=\"{saved_path}\" alt=\"{icon['title']}\" width=\"32\" height=\"32\"></a> | {filename} | {file_type} |\n"
 
