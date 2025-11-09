@@ -8,8 +8,8 @@ Generated: 2025-11-09 14:20:40
 
 | Icon | File | Type |
 |------|------|------|
-| ![School](https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/test/1_School_.png) | 1_School_.png | PNG |
-| ![Search](https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/test/2_Search_.png) | 2_Search_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/test/1_School_.png" alt="School" width="48" height="48"> | 1_School_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/test/2_Search_.png" alt="Search" width="48" height="48"> | 2_Search_.png | PNG |
 
 ### Summary
 
@@ -26,7 +26,7 @@ Generated: 2025-11-09 14:20:06
 
 | Icon | File | Type |
 |------|------|------|
-| ![Deployment](https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/deploy/1_Deployment_.png) | 1_Deployment_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/deploy/1_Deployment_.png" alt="Deployment" width="48" height="48"> | 1_Deployment_.png | PNG |
 
 ### Summary
 
