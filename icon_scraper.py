@@ -151,7 +151,8 @@ class CorrectedFlaticonScraper:
         print(f'🎯 STARTING SCRAPE FOR: {keyword.upper()}')
         print(f"{'─'*70}\n")
         
-        self.icon_dir = os.path.join(self.download_dir, 'icon', keyword)
+        sanitized_keyword = keyword.replace(' ', '-')
+        self.icon_dir = os.path.join(self.download_dir, 'icon', sanitized_keyword)
         
         try:
             await self.initialize()
@@ -188,7 +189,7 @@ class CorrectedFlaticonScraper:
 
             print(f"\n{'─'*70}")
 
-            markdown_content = self.generate_markdown(keyword, icons)
+            markdown_content = self.generate_markdown(keyword, sanitized_keyword, icons)
             self.update_markdown_file(keyword, markdown_content)
             
             print(f'✓ Markdown log updated: libs/icons.md\n')
@@ -209,7 +210,7 @@ class CorrectedFlaticonScraper:
             print(f'❌ Error scraping {keyword}: {str(e)}')
             return False
 
-    def generate_markdown(self, keyword, icons):
+    def generate_markdown(self, keyword, sanitized_keyword, icons):
         markdown = f"## {keyword.capitalize()} Icons\n\n"
         markdown += f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
         markdown += "### Downloaded Icons\n\n"
@@ -221,7 +222,7 @@ class CorrectedFlaticonScraper:
                 for file in icon['downloadedFiles']:
                     format_, filename = file.split(': ')
                     filename = filename.strip()
-                    saved_path = f"https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/{keyword}/{filename}"
+                    saved_path = f"https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/{sanitized_keyword}/{filename}"
                     file_type = format_.strip().upper()
                     markdown += f"| <img src=\"{saved_path}\" alt=\"{icon['title']}\" width=\"48\" height=\"48\"> | {filename} | {file_type} |\n"
 

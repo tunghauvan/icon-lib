@@ -1,0 +1,101 @@
+# Keywords for Enterprise System Architecture Blueprint
+
+- [x] System Architecture
+- [x] Client Applications
+- [x] Admin Tools
+- [ ] Staff Portal
+- [x] Admin Interface
+- [x] Publisher
+- [ ] Merchant Portal
+- [x] Content Management
+- [x] Mobile App
+- [x] Social Platform
+- [x] Influencer
+- [x] Public Web
+- [x] End Users
+- [x] Search Engine
+- [x] Direct Access
+- [ ] Traffic Ingress
+- [x] Routing
+- [x] Load Balancer
+- [ ] HTTP/HTTPS
+- [x] CDN
+- [x] Global Network
+- [x] Firewall
+- [x] DNS
+- [x] Domain
+- [x] Network Load Balancer
+- [x] Reverse Proxy
+- [x] Load Balancing
+- [x] API Gateway
+- [x] API Management
+- [x] Gateway
+- [ ] AWS API
+- [x] VPN
+- [x] Secure Access
+- [x] Tracker
+- [x] Click Tracking
+- [x] Conversion
+- [x] Event
+- [x] Analytics
+- [x] Performance
+- [x] Publisher
+- [x] Content Publishing
+- [x] Dashboard
+- [x] Real-time
+- [x] Data Visualization
+- [x] Reporting
+- [x] Business Logic
+- [x] Monolithic
+- [x] Database
+- [x] Oracle
+- [x] API Endpoints
+- [x] BFF
+- [x] Client
+- [x] Request
+- [x] Caching
+- [ ] GraphQL
+- [x] Notifications
+- [x] Email
+- [x] SMS
+- [x] Push Notifications
+- [x] Event-driven
+- [x] Templates
+- [x] Payment
+- [x] Gateway
+- [x] Transaction
+- [x] Billing
+- [x] Refund
+- [x] Audit
+- [x] Servers
+- [ ] Protocol
+- [ ] Registry
+- [ ] Context
+- [ ] Resources
+- [ ] Prompts
+- [ ] Clients
+- [ ] SDK
+- [ ] Transport
+- [ ] Message
+- [ ] Session
+- [ ] Error
+- [ ] Chat
+- [ ] Conversational
+- [ ] Streaming
+- [ ] History
+- [ ] Dialogue
+- [ ] Gateway
+- [ ] Model
+- [ ] Load Balancing
+- [ ] Rate Limiting
+- [ ] API Key
+- [ ] Batch Processing
+- [ ] Queues
+- [ ] Operations
+- [ ] Jobs
+- [ ] Aggregation
+- [ ] ETL
+- [ ] Processing
+- [ ] Topics
+- [ ] Brokers
+- [ ] Partitions
