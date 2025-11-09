@@ -608,22 +608,22 @@ Generated: 2025-11-09 14:56:07
 
 ## Load balancing Icons
 
-Generated: 2025-11-09 14:56:54
+Generated: 2025-11-09 15:46:25
 
 ### Downloaded Icons
 
 | Icon | File | Type |
 |------|------|------|
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/1_Load_balancer_.png" alt="Load balancer " width="48" height="48"> | 1_Load_balancer_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/2_Connection_.png" alt="Connection " width="48" height="48"> | 2_Connection_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/3_Load_.png" alt="Load " width="48" height="48"> | 3_Load_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/1_Balanced_diet_.png" alt="Balanced diet " width="48" height="48"> | 1_Balanced_diet_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/2_Load_balancer_.png" alt="Load balancer " width="48" height="48"> | 2_Load_balancer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/3_Connection_.png" alt="Connection " width="48" height="48"> | 3_Connection_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/4_Network_.png" alt="Network " width="48" height="48"> | 4_Network_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/5_Share_.png" alt="Share " width="48" height="48"> | 5_Share_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/6_Load_.png" alt="Load " width="48" height="48"> | 6_Load_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/6_Loading_.png" alt="Loading " width="48" height="48"> | 6_Loading_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/7_Load_balaning_.png" alt="Load balaning " width="48" height="48"> | 7_Load_balaning_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/8_Share_.png" alt="Share " width="48" height="48"> | 8_Share_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/9_Load_balancer_.png" alt="Load balancer " width="48" height="48"> | 9_Load_balancer_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/10_Database_.png" alt="Database " width="48" height="48"> | 10_Database_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/9_Refresh_.png" alt="Refresh " width="48" height="48"> | 9_Refresh_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Load-Balancing/10_Load_balancer_.png" alt="Load balancer " width="48" height="48"> | 10_Load_balancer_.png | PNG |
 
 ### Summary
 
@@ -686,7 +686,7 @@ Generated: 2025-11-09 14:58:41
 
 ## Gateway Icons
 
-Generated: 2025-11-09 15:26:17
+Generated: 2025-11-09 15:44:49
 
 ### Downloaded Icons
 
@@ -698,10 +698,10 @@ Generated: 2025-11-09 15:26:17
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/4_Wifi_router_.png" alt="Wifi router " width="48" height="48"> | 4_Wifi_router_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/5_Wifi_router_.png" alt="Wifi router " width="48" height="48"> | 5_Wifi_router_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/6_Wifi_router_.png" alt="Wifi router " width="48" height="48"> | 6_Wifi_router_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/7_Wifi_router_.png" alt="Wifi router " width="48" height="48"> | 7_Wifi_router_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/7_Gateway_.png" alt="Gateway " width="48" height="48"> | 7_Gateway_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/8_Gateway_.png" alt="Gateway " width="48" height="48"> | 8_Gateway_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/9_Gateway_.png" alt="Gateway " width="48" height="48"> | 9_Gateway_.png | PNG |
-| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/10_Gateway_.png" alt="Gateway " width="48" height="48"> | 10_Gateway_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Gateway/10_Payment_gateway_.png" alt="Payment gateway " width="48" height="48"> | 10_Payment_gateway_.png | PNG |
 
 ### Summary
 
@@ -1583,6 +1583,760 @@ Generated: 2025-11-09 15:30:13
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Servers/8_Server_.png" alt="Server " width="48" height="48"> | 8_Server_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Servers/9_Data_source_.png" alt="Data source " width="48" height="48"> | 9_Data_source_.png | PNG |
 | <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Servers/10_Cloud_server_.png" alt="Cloud server " width="48" height="48"> | 10_Cloud_server_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Protocol Icons
+
+Generated: 2025-11-09 15:31:02
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/1_Protocol_.png" alt="Protocol " width="48" height="48"> | 1_Protocol_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/2_Document_.png" alt="Document " width="48" height="48"> | 2_Document_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/3_Clipboard_.png" alt="Clipboard " width="48" height="48"> | 3_Clipboard_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/4_Task_.png" alt="Task " width="48" height="48"> | 4_Task_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/5_Checklist_.png" alt="Checklist " width="48" height="48"> | 5_Checklist_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/6_Protocol_.png" alt="Protocol " width="48" height="48"> | 6_Protocol_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/7_Checklist_.png" alt="Checklist " width="48" height="48"> | 7_Checklist_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/8_Protocols_.png" alt="Protocols " width="48" height="48"> | 8_Protocols_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/9_Shopping_list_.png" alt="Shopping list " width="48" height="48"> | 9_Shopping_list_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Protocol/10_Clipboard_.png" alt="Clipboard " width="48" height="48"> | 10_Clipboard_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Registry Icons
+
+Generated: 2025-11-09 15:31:59
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/1_Note_.png" alt="Note " width="48" height="48"> | 1_Note_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/2_Clipboard_.png" alt="Clipboard " width="48" height="48"> | 2_Clipboard_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/3_Application_.png" alt="Application " width="48" height="48"> | 3_Application_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/4_Clipboard_.png" alt="Clipboard " width="48" height="48"> | 4_Clipboard_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/5_Registry_.png" alt="Registry " width="48" height="48"> | 5_Registry_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/6_Note_book_.png" alt="Note book " width="48" height="48"> | 6_Note_book_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/7_Registry_.png" alt="Registry " width="48" height="48"> | 7_Registry_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/8_Agreement_.png" alt="Agreement " width="48" height="48"> | 8_Agreement_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/9_Form_.png" alt="Form " width="48" height="48"> | 9_Form_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Registry/10_Registry_.png" alt="Registry " width="48" height="48"> | 10_Registry_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Context Icons
+
+Generated: 2025-11-09 15:32:55
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/1_Context_.png" alt="Context " width="48" height="48"> | 1_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/2_Context_.png" alt="Context " width="48" height="48"> | 2_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/3_Context_.png" alt="Context " width="48" height="48"> | 3_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/4_Context_.png" alt="Context " width="48" height="48"> | 4_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/5_Share_.png" alt="Share " width="48" height="48"> | 5_Share_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/6_Context_.png" alt="Context " width="48" height="48"> | 6_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/7_Share_.png" alt="Share " width="48" height="48"> | 7_Share_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/8_Social_media_.png" alt="Social media " width="48" height="48"> | 8_Social_media_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/9_Context_.png" alt="Context " width="48" height="48"> | 9_Context_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Context/10_Share_.png" alt="Share " width="48" height="48"> | 10_Share_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Resources Icons
+
+Generated: 2025-11-09 15:33:48
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/1_Resource_allocation_.png" alt="Resource allocation " width="48" height="48"> | 1_Resource_allocation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/2_Use_case_.png" alt="Use case " width="48" height="48"> | 2_Use_case_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/3_Resource_allocation_.png" alt="Resource allocation " width="48" height="48"> | 3_Resource_allocation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/4_Resource_management_.png" alt="Resource management " width="48" height="48"> | 4_Resource_management_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/5_Teamwork_.png" alt="Teamwork " width="48" height="48"> | 5_Teamwork_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/6_Resource_management_.png" alt="Resource management " width="48" height="48"> | 6_Resource_management_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/7_Headhunting_.png" alt="Headhunting " width="48" height="48"> | 7_Headhunting_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/8_Resource_allocation_.png" alt="Resource allocation " width="48" height="48"> | 8_Resource_allocation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/9_Teamwork_.png" alt="Teamwork " width="48" height="48"> | 9_Teamwork_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Resources/10_Resource_management_.png" alt="Resource management " width="48" height="48"> | 10_Resource_management_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Prompts Icons
+
+Generated: 2025-11-09 15:34:41
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/1_Prompt_.png" alt="Prompt " width="48" height="48"> | 1_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/2_Prompt_.png" alt="Prompt " width="48" height="48"> | 2_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/3_Prompt_.png" alt="Prompt " width="48" height="48"> | 3_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/4_Prompt_.png" alt="Prompt " width="48" height="48"> | 4_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/5_Message_.png" alt="Message " width="48" height="48"> | 5_Message_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/6_Prompt_.png" alt="Prompt " width="48" height="48"> | 6_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/7_Speech_to_text_.png" alt="Speech to text " width="48" height="48"> | 7_Speech_to_text_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/8_Computer_.png" alt="Computer " width="48" height="48"> | 8_Computer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/9_Prompt_.png" alt="Prompt " width="48" height="48"> | 9_Prompt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Prompts/10_Text_to_speech_.png" alt="Text to speech " width="48" height="48"> | 10_Text_to_speech_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Clients Icons
+
+Generated: 2025-11-09 15:35:32
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/1_Costumer_.png" alt="Costumer " width="48" height="48"> | 1_Costumer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/2_Target_audience_.png" alt="Target audience " width="48" height="48"> | 2_Target_audience_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/3_Customer_.png" alt="Customer " width="48" height="48"> | 3_Customer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/4_Client_.png" alt="Client " width="48" height="48"> | 4_Client_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/5_Engagement_.png" alt="Engagement " width="48" height="48"> | 5_Engagement_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/6_Public_relation_.png" alt="Public relation " width="48" height="48"> | 6_Public_relation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/7_User_avatar_.png" alt="User avatar " width="48" height="48"> | 7_User_avatar_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/8_Client_.png" alt="Client " width="48" height="48"> | 8_Client_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/9_Businesman_.png" alt="Businesman " width="48" height="48"> | 9_Businesman_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Clients/10_Review_.png" alt="Review " width="48" height="48"> | 10_Review_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Sdk Icons
+
+Generated: 2025-11-09 15:36:24
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/1_Sdk_.png" alt="Sdk " width="48" height="48"> | 1_Sdk_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/2_Sdk_.png" alt="Sdk " width="48" height="48"> | 2_Sdk_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/3_Software_development_.png" alt="Software development " width="48" height="48"> | 3_Software_development_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/4_Software_development_.png" alt="Software development " width="48" height="48"> | 4_Software_development_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/5_Tool_.png" alt="Tool " width="48" height="48"> | 5_Tool_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/6_App_.png" alt="App " width="48" height="48"> | 6_App_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/7_Sdk_.png" alt="Sdk " width="48" height="48"> | 7_Sdk_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/8_Sdk_.png" alt="Sdk " width="48" height="48"> | 8_Sdk_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/9_Software_.png" alt="Software " width="48" height="48"> | 9_Software_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/SDK/10_Sdk_.png" alt="Sdk " width="48" height="48"> | 10_Sdk_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Transport Icons
+
+Generated: 2025-11-09 15:37:26
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/1_Truck_.png" alt="Truck " width="48" height="48"> | 1_Truck_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/2_Transportation_.png" alt="Transportation " width="48" height="48"> | 2_Transportation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/3_Truck_.png" alt="Truck " width="48" height="48"> | 3_Truck_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/4_Bus_.png" alt="Bus " width="48" height="48"> | 4_Bus_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/5_Truck_.png" alt="Truck " width="48" height="48"> | 5_Truck_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/6_Transportation_.png" alt="Transportation " width="48" height="48"> | 6_Transportation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/7_Fast_delivery_.png" alt="Fast delivery " width="48" height="48"> | 7_Fast_delivery_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/8_Bus_.png" alt="Bus " width="48" height="48"> | 8_Bus_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/9_Food_truck_.png" alt="Food truck " width="48" height="48"> | 9_Food_truck_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Transport/10_Delivery_truck_.png" alt="Delivery truck " width="48" height="48"> | 10_Delivery_truck_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Message Icons
+
+Generated: 2025-11-09 15:38:13
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/1_Email_.png" alt="Email " width="48" height="48"> | 1_Email_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/2_Chat_.png" alt="Chat " width="48" height="48"> | 2_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/3_Chat_.png" alt="Chat " width="48" height="48"> | 3_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/4_Email_.png" alt="Email " width="48" height="48"> | 4_Email_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/5_Messenger_.png" alt="Messenger " width="48" height="48"> | 5_Messenger_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/6_Chat_.png" alt="Chat " width="48" height="48"> | 6_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/7_Comments_.png" alt="Comments " width="48" height="48"> | 7_Comments_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/8_Chatting_.png" alt="Chatting " width="48" height="48"> | 8_Chatting_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/9_Comment_.png" alt="Comment " width="48" height="48"> | 9_Comment_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Message/10_Conversation_.png" alt="Conversation " width="48" height="48"> | 10_Conversation_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Session Icons
+
+Generated: 2025-11-09 15:39:03
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/1_Training_.png" alt="Training " width="48" height="48"> | 1_Training_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/2_Laptop_.png" alt="Laptop " width="48" height="48"> | 2_Laptop_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/3_Introduction_.png" alt="Introduction " width="48" height="48"> | 3_Introduction_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/4_Presentation_.png" alt="Presentation " width="48" height="48"> | 4_Presentation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/5_Introduction_.png" alt="Introduction " width="48" height="48"> | 5_Introduction_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/6_Presentation_.png" alt="Presentation " width="48" height="48"> | 6_Presentation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/7_Education_.png" alt="Education " width="48" height="48"> | 7_Education_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/8_Training_.png" alt="Training " width="48" height="48"> | 8_Training_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/9_Management_.png" alt="Management " width="48" height="48"> | 9_Management_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Session/10_Webinar_.png" alt="Webinar " width="48" height="48"> | 10_Webinar_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Error Icons
+
+Generated: 2025-11-09 15:39:51
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/1_Warning_.png" alt="Warning " width="48" height="48"> | 1_Warning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/2_Danger_.png" alt="Danger " width="48" height="48"> | 2_Danger_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/3_Mark_.png" alt="Mark " width="48" height="48"> | 3_Mark_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/4_Warning_.png" alt="Warning " width="48" height="48"> | 4_Warning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/5_Message_.png" alt="Message " width="48" height="48"> | 5_Message_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/6_Close_.png" alt="Close " width="48" height="48"> | 6_Close_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/7_Warning_.png" alt="Warning " width="48" height="48"> | 7_Warning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/8_Warning_.png" alt="Warning " width="48" height="48"> | 8_Warning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/9_Close_.png" alt="Close " width="48" height="48"> | 9_Close_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Error/10_Close_.png" alt="Close " width="48" height="48"> | 10_Close_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Chat Icons
+
+Generated: 2025-11-09 15:40:39
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/1_Bubble_chat_.png" alt="Bubble chat " width="48" height="48"> | 1_Bubble_chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/2_Chat_.png" alt="Chat " width="48" height="48"> | 2_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/3_Chat_gpt_.png" alt="Chat gpt " width="48" height="48"> | 3_Chat_gpt_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/4_Speech_bubble_.png" alt="Speech bubble " width="48" height="48"> | 4_Speech_bubble_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/5_Messenger_.png" alt="Messenger " width="48" height="48"> | 5_Messenger_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/6_Chat_.png" alt="Chat " width="48" height="48"> | 6_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/7_Chat_.png" alt="Chat " width="48" height="48"> | 7_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/8_Chat_.png" alt="Chat " width="48" height="48"> | 8_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/9_Chat_.png" alt="Chat " width="48" height="48"> | 9_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Chat/10_Chat_.png" alt="Chat " width="48" height="48"> | 10_Chat_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Conversational Icons
+
+Generated: 2025-11-09 15:41:29
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/1_Good_conversion_rate_.png" alt="Good conversion rate " width="48" height="48"> | 1_Good_conversion_rate_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/2_Conversion_rate_optimizer_.png" alt="Conversion rate optimizer " width="48" height="48"> | 2_Conversion_rate_optimizer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/3_Transfer_.png" alt="Transfer " width="48" height="48"> | 3_Transfer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/4_Conversion_.png" alt="Conversion " width="48" height="48"> | 4_Conversion_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/5_Conversion_rate_.png" alt="Conversion rate " width="48" height="48"> | 5_Conversion_rate_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/6_Conversion_.png" alt="Conversion " width="48" height="48"> | 6_Conversion_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/7_Optimization_.png" alt="Optimization " width="48" height="48"> | 7_Optimization_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/8_Conversion_.png" alt="Conversion " width="48" height="48"> | 8_Conversion_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/9_Money_exchange_.png" alt="Money exchange " width="48" height="48"> | 9_Money_exchange_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Conversational/10_Conversion_.png" alt="Conversion " width="48" height="48"> | 10_Conversion_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Streaming Icons
+
+Generated: 2025-11-09 15:42:20
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/1_Live_streaming_.png" alt="Live streaming " width="48" height="48"> | 1_Live_streaming_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/2_Live_stream_.png" alt="Live stream " width="48" height="48"> | 2_Live_stream_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/3_Play_button_.png" alt="Play button " width="48" height="48"> | 3_Play_button_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/4_Stream_.png" alt="Stream " width="48" height="48"> | 4_Stream_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/5_Live_.png" alt="Live " width="48" height="48"> | 5_Live_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/6_Live_streaming_.png" alt="Live streaming " width="48" height="48"> | 6_Live_streaming_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/7_Online_Video_.png" alt="Online Video " width="48" height="48"> | 7_Online_Video_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/8_Live_streaming_.png" alt="Live streaming " width="48" height="48"> | 8_Live_streaming_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/9_Live_.png" alt="Live " width="48" height="48"> | 9_Live_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Streaming/10_Live_.png" alt="Live " width="48" height="48"> | 10_Live_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## History Icons
+
+Generated: 2025-11-09 15:43:10
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/1_History_.png" alt="History " width="48" height="48"> | 1_History_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/2_Clipboard_.png" alt="Clipboard " width="48" height="48"> | 2_Clipboard_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/3_History_.png" alt="History " width="48" height="48"> | 3_History_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/4_File_.png" alt="File " width="48" height="48"> | 4_File_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/5_Parchment_.png" alt="Parchment " width="48" height="48"> | 5_Parchment_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/6_History_.png" alt="History " width="48" height="48"> | 6_History_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/7_History_book_.png" alt="History book " width="48" height="48"> | 7_History_book_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/8_History_.png" alt="History " width="48" height="48"> | 8_History_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/9_File_.png" alt="File " width="48" height="48"> | 9_File_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/History/10_Clock_.png" alt="Clock " width="48" height="48"> | 10_Clock_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Dialogue Icons
+
+Generated: 2025-11-09 15:44:03
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/1_Dialogue_.png" alt="Dialogue " width="48" height="48"> | 1_Dialogue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/2_Chatting_.png" alt="Chatting " width="48" height="48"> | 2_Chatting_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/3_Speak_.png" alt="Speak " width="48" height="48"> | 3_Speak_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/4_Speech_bubble_.png" alt="Speech bubble " width="48" height="48"> | 4_Speech_bubble_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/5_Dialogue_.png" alt="Dialogue " width="48" height="48"> | 5_Dialogue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/6_Chat_.png" alt="Chat " width="48" height="48"> | 6_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/7_Dialogue_.png" alt="Dialogue " width="48" height="48"> | 7_Dialogue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/8_Chatting_.png" alt="Chatting " width="48" height="48"> | 8_Chatting_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/9_Discussion_.png" alt="Discussion " width="48" height="48"> | 9_Discussion_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Dialogue/10_Dialogue_.png" alt="Dialogue " width="48" height="48"> | 10_Dialogue_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Model Icons
+
+Generated: 2025-11-09 15:45:38
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/1_Blockchain_.png" alt="Blockchain " width="48" height="48"> | 1_Blockchain_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/2_Data_modelling_.png" alt="Data modelling " width="48" height="48"> | 2_Data_modelling_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/3_Ai_model_.png" alt="Ai model " width="48" height="48"> | 3_Ai_model_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/4_Big_data_.png" alt="Big data " width="48" height="48"> | 4_Big_data_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/5_Deep_learning_.png" alt="Deep learning " width="48" height="48"> | 5_Deep_learning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/6_Business_Model_.png" alt="Business Model " width="48" height="48"> | 6_Business_Model_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/7_Predictive_.png" alt="Predictive " width="48" height="48"> | 7_Predictive_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/8_Workflow_.png" alt="Workflow " width="48" height="48"> | 8_Workflow_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/9_Deep_learning_.png" alt="Deep learning " width="48" height="48"> | 9_Deep_learning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Model/10_Predictive_models_.png" alt="Predictive models " width="48" height="48"> | 10_Predictive_models_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Rate limiting Icons
+
+Generated: 2025-11-09 15:47:12
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/1_Star_.png" alt="Star " width="48" height="48"> | 1_Star_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/2_Server_traffic_.png" alt="Server traffic " width="48" height="48"> | 2_Server_traffic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/3_Server_traffic_.png" alt="Server traffic " width="48" height="48"> | 3_Server_traffic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/4_Star_.png" alt="Star " width="48" height="48"> | 4_Star_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/5_Server_traffic_.png" alt="Server traffic " width="48" height="48"> | 5_Server_traffic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/6_Filter_.png" alt="Filter " width="48" height="48"> | 6_Filter_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/7_Filter_.png" alt="Filter " width="48" height="48"> | 7_Filter_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/8_Quota_.png" alt="Quota " width="48" height="48"> | 8_Quota_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/9_Server_traffic_.png" alt="Server traffic " width="48" height="48"> | 9_Server_traffic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Rate-Limiting/10_Rated_r_.png" alt="Rated r " width="48" height="48"> | 10_Rated_r_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Api key Icons
+
+Generated: 2025-11-09 15:48:06
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/1_Cryptography_.png" alt="Cryptography " width="48" height="48"> | 1_Cryptography_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/2_Key_.png" alt="Key " width="48" height="48"> | 2_Key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/3_Old_key_.png" alt="Old key " width="48" height="48"> | 3_Old_key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/4_Keys_.png" alt="Keys " width="48" height="48"> | 4_Keys_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/5_Key_.png" alt="Key " width="48" height="48"> | 5_Key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/6_Key_.png" alt="Key " width="48" height="48"> | 6_Key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/7_Old_key_.png" alt="Old key " width="48" height="48"> | 7_Old_key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/8_Key_.png" alt="Key " width="48" height="48"> | 8_Key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/9_Key_.png" alt="Key " width="48" height="48"> | 9_Key_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/API-Key/10_Room_key_.png" alt="Room key " width="48" height="48"> | 10_Room_key_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Batch processing Icons
+
+Generated: 2025-11-09 15:48:57
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/1_Procedure_.png" alt="Procedure " width="48" height="48"> | 1_Procedure_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/2_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 2_Batch_processing_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/3_Planning_.png" alt="Planning " width="48" height="48"> | 3_Planning_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/4_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 4_Batch_processing_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/5_Batch_.png" alt="Batch " width="48" height="48"> | 5_Batch_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/6_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 6_Batch_processing_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/7_Creative_Process_.png" alt="Creative Process " width="48" height="48"> | 7_Creative_Process_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/8_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 8_Batch_processing_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/9_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 9_Batch_processing_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Batch-Processing/10_Batch_processing_.png" alt="Batch processing " width="48" height="48"> | 10_Batch_processing_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Queues Icons
+
+Generated: 2025-11-09 15:49:47
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/1_Line_.png" alt="Line " width="48" height="48"> | 1_Line_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/2_Queue_.png" alt="Queue " width="48" height="48"> | 2_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/3_Queue_.png" alt="Queue " width="48" height="48"> | 3_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/4_Queue_.png" alt="Queue " width="48" height="48"> | 4_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/5_Queue_.png" alt="Queue " width="48" height="48"> | 5_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/6_Play_.png" alt="Play " width="48" height="48"> | 6_Play_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/7_Queue_.png" alt="Queue " width="48" height="48"> | 7_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/8_Queue_.png" alt="Queue " width="48" height="48"> | 8_Queue_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/9_Paper_.png" alt="Paper " width="48" height="48"> | 9_Paper_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Queues/10_Queue_.png" alt="Queue " width="48" height="48"> | 10_Queue_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Operations Icons
+
+Generated: 2025-11-09 15:50:34
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/1_Management_.png" alt="Management " width="48" height="48"> | 1_Management_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/2_Cogwheel_.png" alt="Cogwheel " width="48" height="48"> | 2_Cogwheel_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/3_Automation_.png" alt="Automation " width="48" height="48"> | 3_Automation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/4_Engineering_.png" alt="Engineering " width="48" height="48"> | 4_Engineering_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/5_System_update_.png" alt="System update " width="48" height="48"> | 5_System_update_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/6_Operational_system_.png" alt="Operational system " width="48" height="48"> | 6_Operational_system_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/7_Efficacy_.png" alt="Efficacy " width="48" height="48"> | 7_Efficacy_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/8_Comprehensive_.png" alt="Comprehensive " width="48" height="48"> | 8_Comprehensive_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/9_Operation_.png" alt="Operation " width="48" height="48"> | 9_Operation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Operations/10_Operation_.png" alt="Operation " width="48" height="48"> | 10_Operation_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Jobs Icons
+
+Generated: 2025-11-09 15:51:24
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/1_Briefcase_.png" alt="Briefcase " width="48" height="48"> | 1_Briefcase_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/2_Suitcase_.png" alt="Suitcase " width="48" height="48"> | 2_Suitcase_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/3_Job_.png" alt="Job " width="48" height="48"> | 3_Job_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/4_Businessman_.png" alt="Businessman " width="48" height="48"> | 4_Businessman_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/5_Job_seeker_.png" alt="Job seeker " width="48" height="48"> | 5_Job_seeker_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/6_Suitcase_.png" alt="Suitcase " width="48" height="48"> | 6_Suitcase_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/7_Briefcase_.png" alt="Briefcase " width="48" height="48"> | 7_Briefcase_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/8_Job_offer_.png" alt="Job offer " width="48" height="48"> | 8_Job_offer_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/9_Employee_.png" alt="Employee " width="48" height="48"> | 9_Employee_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Jobs/10_Businessman_.png" alt="Businessman " width="48" height="48"> | 10_Businessman_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Aggregation Icons
+
+Generated: 2025-11-09 15:52:11
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/1_Aggregate_supply_.png" alt="Aggregate supply " width="48" height="48"> | 1_Aggregate_supply_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/2_Data_collection_.png" alt="Data collection " width="48" height="48"> | 2_Data_collection_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/3_Aggregation_.png" alt="Aggregation " width="48" height="48"> | 3_Aggregation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/4_Aggregate_.png" alt="Aggregate " width="48" height="48"> | 4_Aggregate_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/5_Aggregate_.png" alt="Aggregate " width="48" height="48"> | 5_Aggregate_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/6_Arrow_.png" alt="Arrow " width="48" height="48"> | 6_Arrow_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/7_Server_.png" alt="Server " width="48" height="48"> | 7_Server_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/8_Aggregation_.png" alt="Aggregation " width="48" height="48"> | 8_Aggregation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/9_Aggregation_.png" alt="Aggregation " width="48" height="48"> | 9_Aggregation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Aggregation/10_Aggregation_.png" alt="Aggregation " width="48" height="48"> | 10_Aggregation_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Etl Icons
+
+Generated: 2025-11-09 15:52:58
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/1_Etl_.png" alt="Etl " width="48" height="48"> | 1_Etl_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/2_Etl_.png" alt="Etl " width="48" height="48"> | 2_Etl_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/3_Etl_.png" alt="Etl " width="48" height="48"> | 3_Etl_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/4_Etl_.png" alt="Etl " width="48" height="48"> | 4_Etl_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/5_Etl_.png" alt="Etl " width="48" height="48"> | 5_Etl_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/6_Data_transformation_.png" alt="Data transformation " width="48" height="48"> | 6_Data_transformation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/7_Data_transformation_.png" alt="Data transformation " width="48" height="48"> | 7_Data_transformation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/8_Data_transformation_.png" alt="Data transformation " width="48" height="48"> | 8_Data_transformation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/9_Data_transformation_.png" alt="Data transformation " width="48" height="48"> | 9_Data_transformation_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/ETL/10_Data_transformation_.png" alt="Data transformation " width="48" height="48"> | 10_Data_transformation_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Processing Icons
+
+Generated: 2025-11-09 15:53:44
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/1_Project_.png" alt="Project " width="48" height="48"> | 1_Project_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/2_Iteration_.png" alt="Iteration " width="48" height="48"> | 2_Iteration_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/3_Engineering_.png" alt="Engineering " width="48" height="48"> | 3_Engineering_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/4_Process_.png" alt="Process " width="48" height="48"> | 4_Process_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/5_Pmbok_.png" alt="Pmbok " width="48" height="48"> | 5_Pmbok_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/6_Process_.png" alt="Process " width="48" height="48"> | 6_Process_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/7_Project_.png" alt="Project " width="48" height="48"> | 7_Project_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/8_Iteration_.png" alt="Iteration " width="48" height="48"> | 8_Iteration_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/9_Process_.png" alt="Process " width="48" height="48"> | 9_Process_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Processing/10_Workflow_.png" alt="Workflow " width="48" height="48"> | 10_Workflow_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Topics Icons
+
+Generated: 2025-11-09 15:54:34
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/1_Trending_topic_.png" alt="Trending topic " width="48" height="48"> | 1_Trending_topic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/2_Topic_.png" alt="Topic " width="48" height="48"> | 2_Topic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/3_Chat_.png" alt="Chat " width="48" height="48"> | 3_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/4_Trendy_.png" alt="Trendy " width="48" height="48"> | 4_Trendy_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/5_Trending_topic_.png" alt="Trending topic " width="48" height="48"> | 5_Trending_topic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/6_Choose_topic_.png" alt="Choose topic " width="48" height="48"> | 6_Choose_topic_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/7_Check_list_.png" alt="Check list " width="48" height="48"> | 7_Check_list_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/8_Flash_sale_.png" alt="Flash sale " width="48" height="48"> | 8_Flash_sale_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/9_Chat_.png" alt="Chat " width="48" height="48"> | 9_Chat_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Topics/10_Delete_message_.png" alt="Delete message " width="48" height="48"> | 10_Delete_message_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Brokers Icons
+
+Generated: 2025-11-09 15:55:23
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/1_Broker_.png" alt="Broker " width="48" height="48"> | 1_Broker_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/2_Deal_.png" alt="Deal " width="48" height="48"> | 2_Deal_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/3_Real_estate_agent_.png" alt="Real estate agent " width="48" height="48"> | 3_Real_estate_agent_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/4_Broker_.png" alt="Broker " width="48" height="48"> | 4_Broker_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/5_Insurance_agent_.png" alt="Insurance agent " width="48" height="48"> | 5_Insurance_agent_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/6_Trader_.png" alt="Trader " width="48" height="48"> | 6_Trader_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/7_Broker_.png" alt="Broker " width="48" height="48"> | 7_Broker_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/8_Brokerage_.png" alt="Brokerage " width="48" height="48"> | 8_Brokerage_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/9_house_.png" alt="house " width="48" height="48"> | 9_house_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Brokers/10_Mind_.png" alt="Mind " width="48" height="48"> | 10_Mind_.png | PNG |
+
+### Summary
+
+- Total icons: 10
+- PNG downloaded: 10
+
+---
+
+## Partitions Icons
+
+Generated: 2025-11-09 15:56:11
+
+### Downloaded Icons
+
+| Icon | File | Type |
+|------|------|------|
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/1_Wall_.png" alt="Wall " width="48" height="48"> | 1_Wall_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/2_Disk_usage_.png" alt="Disk usage " width="48" height="48"> | 2_Disk_usage_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/3_Partition_.png" alt="Partition " width="48" height="48"> | 3_Partition_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/4_Partition_.png" alt="Partition " width="48" height="48"> | 4_Partition_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/5_Slice_.png" alt="Slice " width="48" height="48"> | 5_Slice_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/6_Partition_.png" alt="Partition " width="48" height="48"> | 6_Partition_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/7_Server_.png" alt="Server " width="48" height="48"> | 7_Server_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/8_Partition_.png" alt="Partition " width="48" height="48"> | 8_Partition_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/9_Partition_.png" alt="Partition " width="48" height="48"> | 9_Partition_.png | PNG |
+| <img src="https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/Partitions/10_Partition_.png" alt="Partition " width="48" height="48"> | 10_Partition_.png | PNG |
 
 ### Summary
 

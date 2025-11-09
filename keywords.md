@@ -68,34 +68,34 @@
 - [x] Refund
 - [x] Audit
 - [x] Servers
-- [ ] Protocol
-- [ ] Registry
-- [ ] Context
-- [ ] Resources
-- [ ] Prompts
-- [ ] Clients
-- [ ] SDK
-- [ ] Transport
-- [ ] Message
-- [ ] Session
-- [ ] Error
-- [ ] Chat
-- [ ] Conversational
-- [ ] Streaming
-- [ ] History
-- [ ] Dialogue
-- [ ] Gateway
-- [ ] Model
-- [ ] Load Balancing
-- [ ] Rate Limiting
-- [ ] API Key
-- [ ] Batch Processing
-- [ ] Queues
-- [ ] Operations
-- [ ] Jobs
-- [ ] Aggregation
-- [ ] ETL
-- [ ] Processing
-- [ ] Topics
-- [ ] Brokers
-- [ ] Partitions
+- [x] Protocol
+- [x] Registry
+- [x] Context
+- [x] Resources
+- [x] Prompts
+- [x] Clients
+- [x] SDK
+- [x] Transport
+- [x] Message
+- [x] Session
+- [x] Error
+- [x] Chat
+- [x] Conversational
+- [x] Streaming
+- [x] History
+- [x] Dialogue
+- [x] Gateway
+- [x] Model
+- [x] Load Balancing
+- [x] Rate Limiting
+- [x] API Key
+- [x] Batch Processing
+- [x] Queues
+- [x] Operations
+- [x] Jobs
+- [x] Aggregation
+- [x] ETL
+- [x] Processing
+- [x] Topics
+- [x] Brokers
+- [x] Partitions
