@@ -213,9 +213,8 @@ class CorrectedFlaticonScraper:
         markdown = f"## {keyword.capitalize()} Icons\n\n"
         markdown += f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
         markdown += "### Downloaded Icons\n\n"
-        markdown += "Below are the downloaded icons. Click a thumbnail to open the full-size image.\n\n"
-        markdown += "| Icon | Name | Type |\n"
-        markdown += "| ----:| ----- | ---- |\n"
+        markdown += "| Icon | File | Type |\n"
+        markdown += "|------|------|------|\n"
 
         for icon in icons:
             if icon.get('downloadedFiles'):
@@ -224,9 +223,9 @@ class CorrectedFlaticonScraper:
                     filename = filename.strip()
                     saved_path = f"https://raw.githubusercontent.com/tunghauvan/icon-lib/refs/heads/master/downloads/icon/{keyword}/{filename}"
                     file_type = format_.strip().upper()
-                    markdown += f"| <a href=\"{saved_path}\"><img src=\"{saved_path}\" alt=\"{icon['title']}\" width=\"32\" height=\"32\"></a> | {filename} | {file_type} |\n"
+                    markdown += f"| <img src=\"{saved_path}\" alt=\"{icon['title']}\" width=\"48\" height=\"48\"> | {filename} | {file_type} |\n"
 
-        markdown += "### Summary\n\n"
+        markdown += "\n### Summary\n\n"
         markdown += f"- Total icons: {len(icons)}\n"
         png_count = sum(1 for i in icons if i.get('downloadedFiles') and any('PNG' in f for f in i['downloadedFiles']))
         markdown += f"- PNG downloaded: {png_count}\n\n"
